@@ -1,4 +1,4 @@
-const apiKey = '8b4c121596ca036a268939c56c5ab3d5'; // Replace 'YOUR_API_KEY' with your actual API key
+const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API key
 
 function showweatherDetails(event) {
     event.preventDefault();
